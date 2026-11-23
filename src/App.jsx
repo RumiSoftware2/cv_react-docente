@@ -15,7 +15,7 @@ export default function App() {
 
         <div style={styles.buttons}>
           <a
-            href="/CV_SebastianMendoza.pdf"
+            href="/CVDocente.pdf"
             target="_blank"
             rel="noopener noreferrer"
             style={{ ...styles.button, ...styles.primary }}
