@@ -10,7 +10,7 @@ export default function App() {
       <div style={styles.card}>
         <h1 style={styles.name}>Sebastian Mendoza</h1>
         <p style={styles.role}>
-          Licenciado en Matemáticas · Desarrollador Web
+          Estudiante de Ingeniería de Sistemas ·  Licenciatura en Matemáticas
         </p>
 
         <div style={styles.buttons}>
